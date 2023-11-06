@@ -1,0 +1,2 @@
+# RUST
+MY RUST learning
